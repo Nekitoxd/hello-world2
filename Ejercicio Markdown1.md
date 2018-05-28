@@ -1,4 +1,4 @@
-##Ejercicio 1
+## Ejercicio 1
 Markdown.es
 ### lista
 •	Primero
@@ -8,7 +8,7 @@ Markdown.es
 ### lista ordenada
 1.	Primero
 2.	Segundo
-3.	Tercero con DOS  
+3.	Tercero con DOS    
 espacios en blanco al final
 para bajar de línea.
 
